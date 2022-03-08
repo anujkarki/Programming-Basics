@@ -12,4 +12,12 @@ Array its basic and methods
 
 ## Day 3
 
-Date, Method and Get, Set
+Date Method and Get, Set
+
+## Day 4
+
+Function and Object
+
+## Day 5
+
+Conditional statement
